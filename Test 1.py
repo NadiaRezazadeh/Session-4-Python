@@ -14,7 +14,6 @@ while True:
     if len(list) == n :
         break      
          
-
 print("list =" , list)
 
  
